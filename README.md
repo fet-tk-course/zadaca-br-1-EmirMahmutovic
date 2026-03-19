@@ -113,7 +113,11 @@ Repozitorij treba sadržavati:
 
 ---
 
+<<<<<<< HEAD
 Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
+=======
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
+>>>>>>> conflict-test
 
 ---
 
