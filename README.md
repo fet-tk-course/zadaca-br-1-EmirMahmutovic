@@ -114,3 +114,9 @@ Repozitorij treba sadržavati:
 ---
 
 Ovaj repo sadrži moj GitHub zadaću.
+
+---
+
+## Uvod
+
+Ja sam Emir Mahmutovic student Fakulteta elektrotehnike u Tuzli. 
